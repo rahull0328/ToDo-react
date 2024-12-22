@@ -14,7 +14,7 @@ Welcome to the **React To-Do List App**! This project is a beautifully designed 
 
 ## 🖼️ Preview
 
-![To-Do List Preview](https://via.placeholder.com/800x400.png?text=Your+App+Screenshot+Here)
+<img src="./src/assets/todo-list.png">
 
 ## 🛠️ Technologies Used
 
