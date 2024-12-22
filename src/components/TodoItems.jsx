@@ -16,3 +16,4 @@ const TodoItems = ({text, id, isComplete, deleteTodo, toogle}) => {
 }
 
 export default TodoItems
+  
