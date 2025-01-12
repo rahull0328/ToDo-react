@@ -65,10 +65,6 @@ Contributions are welcome! 🎉 If you have suggestions or want to report bugs, 
 - Integrate with a backend API for multi-device sync 🌐
 - Add categories or tags for tasks 🏷️
 
-## 🌈 Acknowledgments
-
-Special thanks to the open-source community for the amazing tools and resources that made this project possible. 🙌
-
 ---
 
 **Made with ❤️ and React by [rahull0328](https://github.com/rahull0328)**
